@@ -1,7 +1,8 @@
 # Portafolio-individual-Luis-Fernando-Villca-Mamani
 
 
-1. Resumen Ejecutivo  
+1. Resumen Ejecutivo
+
 El proyecto en el que participé fue el desarrollo de un Marketplace para emprendedores universitarios, diseñado y construido con Laravel y Livewire. La finalidad de este sistema fue brindar a estudiantes universitarios un espacio digital seguro donde pudieran publicar, gestionar y vender productos o servicios, asegurando que la comunidad se limite únicamente a los miembros universitarios. La plataforma busca fomentar el espíritu emprendedor dentro de la universidad y proporcionar un entorno confiable de compraventa.  
 
 Mi contribución se enfocó principalmente en la experiencia del usuario al momento de explorar los productos, desarrollando un sistema de búsqueda con palabras clave y filtros avanzados (categoría, rango de precios, productos destacados y ordenamientos). Esto permitió que los usuarios pudieran encontrar de forma rápida y eficiente los productos que les interesaban, mejorando significativamente la usabilidad del sistema. Además, trabajé en la vista inicial de bienvenida (*Welcome*), que ofrece una primera impresión clara y organizada del catálogo.  

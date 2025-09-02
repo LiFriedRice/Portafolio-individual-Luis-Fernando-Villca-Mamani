@@ -59,8 +59,36 @@ Durante el desarrollo del proyecto también reforcé habilidades blandas clave:
 - Documentación creada: Commits documentados en GitHub que evidencian mi participación técnica.  
 - Evidencia visual (simulada):  
 
+DECLARACIÓN DE COMPROMISO DE APRENDIZAJE (Día 20)
 
-6. Reflexión y Crecimiento Futuro  
+Habilidades técnicas
+Dominar Laravel avanzado: profundizar en el manejo de controladores, middleware, relaciones complejas en Eloquent y optimización de consultas.
+Aprender React: desarrollar proyectos personales aplicando React para mejorar mis habilidades en frontend moderno.
+Optimización en MySQL: practicar la normalización de bases de datos y uso de índices para mejorar el rendimiento en proyectos futuros.
+
+Prácticas ágiles 
+Mejorar la estimación de historias de usuario: aplicar técnicas como Planning Poker para dar estimaciones más realistas.
+Documentar las retrospectivas: generar un registro estructurado de los acuerdos y aprendizajes de cada sprint.
+Aplicar Pair Programming: practicar el trabajo en parejas en puntos críticos del desarrollo para mejorar la calidad del código.
+
+Colaboración 
+Comunicación efectiva: ser más claro al expresar bloqueos y avances en las dailies.
+Liderazgo colaborativo: apoyar a compañeros con menos experiencia en Livewire o Laravel.
+Manejo de conflictos: proponer soluciones cuando haya diferencias en el equipo.
+
+Métricas de éxito
+Completar 3 cursos online (Laravel avanzado, React básico, SQL optimización).
+Participar en 2 proyectos con Scrum aplicando buenas prácticas ágiles.
+Aumentar en un 15% mis commits en GitHub respecto al último proyecto.
+
+Socio de responsabilidad
+Nombre: Shamir Condori Troche.
+
+Fecha de revisión
+30 de noviembre de 2025 (3 meses).
+
+
+Reflexión y Crecimiento Futuro  
 - Autoreflexión: Este proyecto me permitió reforzar mis conocimientos en Laravel y aprender a trabajar con Livewire, enfrentándome a errores reales de producción que mejoraron mi capacidad de resolución de problemas.  
 - Plan de crecimiento personal: Quiero profundizar en Laravel, pero también ampliar mi dominio en otros frameworks de frontend y backend, como React y Node.js, para convertirme en un desarrollador fullstack más completo.  
 - Impacto en visión profesional: Este proyecto me demostró el valor de las metodologías ágiles y la importancia del trabajo colaborativo. Además, me motivó a seguir creciendo como desarrollador, enfocándome en construir aplicaciones escalables y orientadas al usuario.
